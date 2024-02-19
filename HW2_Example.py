@@ -18,3 +18,5 @@ print("This program caluclates and displays travel expeneses")
 # Get budget from user
 budget = int(input("Enter budget: "))
 dest = input("Enter your destination: ")
+
+#Changes
