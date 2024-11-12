@@ -1,4 +1,5 @@
 # Example similar to P4HW1
+# Mallory Milstead
 
 # List of available items (not needed in your homework)
 availableItems = ["litter", "cat food", "feather", "collar", "toy", \
